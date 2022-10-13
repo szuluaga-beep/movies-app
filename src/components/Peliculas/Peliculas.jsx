@@ -11,7 +11,7 @@ const peliculasInfo=[
   {
     id:"2",
     name:"Predador",
-    urlImagen:"/public/logo512.png",
+    urlImagen:"https://www.themoviedb.org/t/p/w220_and_h330_face/wYQA4UwVLaI4Sf0d5IXEhGO2Ueh.jpg",
 },
 {
   id:"3",
