@@ -1,0 +1,12 @@
+.tarjeta{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1.2rem;
+    border: 1px solid;
+    border-radius: 1.2rem;
+}
+.tarjeta img{
+    width: 200px;
+}
